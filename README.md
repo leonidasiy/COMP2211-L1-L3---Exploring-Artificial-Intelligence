@@ -10,7 +10,7 @@ Covers the technical aspect of AI through topics such as search and problem solv
 6. Computer vision and image processing
 7. Speech and language processing
 8. Robotics
-9.Social and ethical implications of AI
+9. Social and ethical implications of AI
 10. Potential and limitations
 
 # Keyword Syllabus
