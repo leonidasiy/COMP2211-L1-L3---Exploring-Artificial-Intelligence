@@ -1,30 +1,30 @@
-# Description:
+# Description
 Covers the technical aspect of AI through topics such as search and problem solving, knowledge representation, probabilistic reasoning, machine learning, computer vision and image processing, speech and language processing, and robotics.
 
 # Topics Covered
-Brief history of Artificial Intelligence
-Search and problem solving
-Knowledge representation
-Probabilistic reasoning
-Machine learning
-Computer vision and image processing
-Speech and language processing
-Robotics
-Social and ethical implications of AI
-Potential and limitations
+1. Brief history of Artificial Intelligence
+2. Search and problem solving
+3. Knowledge representation
+4. Probabilistic reasoning
+5. Machine learning
+6. Computer vision and image processing
+7. Speech and language processing
+8. Robotics
+9.Social and ethical implications of AI
+10. Potential and limitations
 
 # Keyword Syllabus
-A Brief History of Artificial Intelligence
-Advanced Python for Artificial Intelligence
-Naive Bayes
-K-Nearest Neighbours
-K-Means Clustering
-Perceptron and Multi-Layer Perceptron
-Fundamentals of Image Processing
-Convolutional Neural Networks
-Minimax and Alpha-beta Pruning
-Artificial Intelligence Ethics
-Reinforcement Learning
+1. A Brief History of Artificial Intelligence
+2. Advanced Python for Artificial Intelligence
+3. Naive Bayes
+4. K-Nearest Neighbours
+5. K-Means Clustering
+6. Perceptron and Multi-Layer Perceptron
+7. Fundamentals of Image Processing
+8. Convolutional Neural Networks
+9. Minimax and Alpha-beta Pruning
+10. Artificial Intelligence Ethics
+11. Reinforcement Learning
 
 # Skills Covered
 * Historical perspective and development of artificial intelligence (AI)
